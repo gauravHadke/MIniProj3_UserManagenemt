@@ -1,0 +1,9 @@
+Hi {FULL_NAME}, <br/>
+<br/>
+
+Please find your password below
+
+Password : {TEMP_PWD}
+
+Thanks,
+Admin Team.
